@@ -1,5 +1,4 @@
 package com.example.project;
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 
@@ -25,7 +24,7 @@ public class ExtraCredit {
         int percent;
         double cost;
         String items; 
-        
+
         //Your scanner object and while loop should go here
                              
         System.out.println(calculateTip(people,percent,cost,items));
